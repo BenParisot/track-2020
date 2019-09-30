@@ -1,0 +1,15 @@
+.header-container {
+    background: red;
+    display: flex;
+    justify-content: center;
+
+    .header-icon {
+        color: white;
+        margin-top: .8rem;
+    }
+
+    h1 {
+        color: white;
+        font-size: 28px;
+    }
+}
